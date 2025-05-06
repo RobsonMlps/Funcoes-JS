@@ -1,7 +1,7 @@
-# Funcoes-JS#
-##Formas de declarar funções em JavaScript
+# Funcoes-JS
+## Formas de declarar funções em JavaScript
 
-##Declaration
+## Declaration
 
 A função é criada quando usamos a palavra-chave function para definir uma função. 
 
